@@ -1,1 +1,1 @@
-move the file betty from tmp
+move betty for tmp
