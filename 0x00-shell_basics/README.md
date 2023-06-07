@@ -1,1 +1,1 @@
-Display current directory contents in a long format
+task 3. The long format
