@@ -1,1 +1,1 @@
-task 3. The long format
+Display current directory contents, including hidden files (starting with .). Use the long format.
