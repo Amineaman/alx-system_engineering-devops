@@ -1,1 +1,2 @@
-move betty for tmp
+#!/bin/bash
+mv move betty for tmp
