@@ -1,2 +1,2 @@
 #!/bin/bash
-chown --fram=guillame betty hello
+chown --from=guillaume betty hello
