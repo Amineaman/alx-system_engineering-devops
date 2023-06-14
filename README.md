@@ -1,1 +1,1 @@
-script Display the contents list of your current directory ls
+move betty for tmp
